@@ -77,4 +77,4 @@ else:
 
 st.markdown("---")
 st.markdown("**Required attribution:** This effort is supported by Qollab & IonQ.")
-st.caption("AI assistance was used for ideation, mathematical formulation, implementation drafting, and documentation. All inputs are synthetic.")
+
