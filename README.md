@@ -84,9 +84,6 @@ Initial settings `gamma=0.02`, `beta=0.35`, `p=1`, and 2,048 shots are fixed dem
 
 Potential extensions: parameter sweep, scenario-dependent capacity, worst-case carbon regret, cost/emissions Pareto comparison, and sensitivity analysis.
 
-## AI and external assistance disclosure
-
-AI assistance was used for project ideation, mathematical formulation, implementation drafting, and documentation. The code must be reviewed and run in the target Qollab environment before submission. Data are synthetic. Cite additional libraries, tutorials, papers, or source code actually used in the final implementation.
 
 ## Required attribution
 
